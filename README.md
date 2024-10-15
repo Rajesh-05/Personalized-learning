@@ -35,8 +35,7 @@ Welcome to **ZeN**, an intelligent, adaptive learning platform designed to creat
 
 ## Technologies Used
 
-- **Natural Language Processing (NLP)**: For chatbot interaction and contextual understanding of user responses.
-- **Graph Databases**: To store and manage the knowledge graph for each user.
-- **Machine Learning Algorithms**: To adapt the learning paths and content based on the user’s progress.
-- **Content Generation Engines**: Used to personalize and dynamically generate learning material tailored to user preferences.
-
+- **Natural Language Processing (NLP)**: For chatbot interaction and contextual understanding of user responses. [ **LangChain** ]
+- **Graph Databases**: To store and manage the knowledge graph for each user. [ **Neo4j** ]
+- **Machine Learning Algorithms**: To adapt the learning paths and content based on the user’s progress. 
+- **Content Generation Engines**: Used to personalize and dynamically generate learning material tailored to user preferences. [ **LLAMA 3.1 Provided by Groq**]
